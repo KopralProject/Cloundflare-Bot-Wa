@@ -8,9 +8,9 @@ const {
 const CloudflareAPI = require('cloundflare-ft');
 
 // Masukkan informasi Cloudflare Anda di sini
-const apiKey = "token api"; // Ganti dengan API Key Cloudflare Anda
-const domaincf = "domain"; // Ganti dengan nama domain Anda
-const iniemail = "email"; // Ganti dengan email yang terdaftar di Cloudflare
+const apiKey = "95e042b4119f1d8545a466728e8a7de056621"; // Ganti dengan API Key Cloudflare Anda
+const domaincf = "kaisarstore.web.id"; // Ganti dengan nama domain Anda
+const iniemail = "kopralwann@gmail.com"; // Ganti dengan email yang terdaftar di Cloudflare
 
 let config = {
     bot: {}
