@@ -17,7 +17,7 @@ let config = {
 };
 
 const usePairingCode = true;
-let phoneNumber = "6212345678910"; // Ganti nomor anda
+let phoneNumber = "6287840812718"; // Ganti nomor anda
 
 const cloudflare = new CloudflareAPI(apiKey, iniemail);
 
